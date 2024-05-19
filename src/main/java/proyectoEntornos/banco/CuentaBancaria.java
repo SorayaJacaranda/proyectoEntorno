@@ -1,8 +1,6 @@
-package proyectoEntornos.paquete1;
+package proyectoEntornos.banco;
 
 import java.util.ArrayList;
-
-import paquete2.BancoException;
 
 public class CuentaBancaria {
 	private String numero;
@@ -59,5 +57,28 @@ public class CuentaBancaria {
 		System.out.println("Saldo: " + importe);
 		return "CuentaBancaria [numero=" + numero + ", nombre=" + nombre + ", importe=" + importe + "]";
 	}
-	
+
+	public String getNumero() {
+		return numero;
+	}
+
+	public void setNumero(String numero) {
+		this.numero = numero;
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public double getImporte() {
+		return importe;
+	}
+
+	public void setImporte(double importe) {
+		this.importe = importe;
+	}
 }

@@ -1,4 +1,4 @@
-package paquete2;
+package proyectoEntornos.banco;
 
 public class BancoException extends Exception{
 	private static final long serialVersionUID = 1L;
