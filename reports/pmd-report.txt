@@ -1,0 +1,41 @@
+src/main/java/paquete2/BancoException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/paquete2/BancoException.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/paquete2/BancoException.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/paquete2/BancoException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'arg0' is not assigned and could be declared final
+src/main/java/paquete2/BancoException.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/paquete2/BancoException.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'arg0' is not assigned and could be declared final
+src/main/java/paquete2/Clase2.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/paquete2/Clase2.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/paquete2/Clase2.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/paquete2/Clase2.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cc' could be declared final
+src/main/java/paquete2/Clase2.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like cc
+src/main/java/paquete2/Clase2.java:12:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.ArrayList'
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:8:	ImmutableField:	ImmutableField: Field 'numero' may be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:9:	ImmutableField:	ImmutableField: Field 'nombre' may be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'balance' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'numero' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:16:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: CuentaBancaria.validaImporte(double) 
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:17:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:20:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'importe' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:33:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'resultado'.
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'retiradaEfectivo(double)'
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'importeOperacion' is not assigned and could be declared final
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:45:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:46:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:57:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:58:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/proyectoEntornos/paquete1/CuentaBancaria.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
